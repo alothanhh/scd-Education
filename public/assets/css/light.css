@@ -36,8 +36,8 @@ body.dm-light .uk-button-default {
 body.dm-light .uk-button-default:hover,
 body.dm-light .uk-button-default:focus,
 body.dm-light .uk-button-default:active {
-    border-color: #b00a23;
-    background-color: #b00a23;
+    border-color: #46aee1;
+    background-color: #46aee1;
     color: #ffffff;
 }
 
@@ -51,7 +51,7 @@ body.dm-light .uk-button-link {
 body.dm-light .uk-button-link:hover,
 body.dm-light .uk-button-link:focus,
 body.dm-light .uk-button-link:active {
-    color: #b00a23;
+    color: #46aee1;
     text-decoration: underline;
 }
 
@@ -92,8 +92,8 @@ body.dm-light .uk-pagination>*>* {
 body.dm-light .uk-pagination>*>*:hover,
 body.dm-light .uk-pagination>*>*:focus,
 body.dm-light .uk-pagination>*>*:active {
-    border-color: #b00a23;
-    background: #b00a23;
+    border-color: #46aee1;
+    background: #46aee1;
     color: #ffffff;
 }
 
@@ -102,8 +102,8 @@ body.dm-light .uk-pagination>*.uk-disabled>* {
 }
 
 body.dm-light .uk-pagination>*.uk-active>* {
-    border-color: #b00a23;
-    background: #b00a23;
+    border-color: #46aee1;
+    background: #46aee1;
     color: #ffffff;
 }
 
@@ -130,7 +130,7 @@ body.dm-light .block-with-phone {
 }
 
 body.dm-light .block-with-phone svg path {
-    fill: #b00a23;
+    fill: #46aee1;
 }
 
 body.dm-light .block-with-phone a {
@@ -140,7 +140,7 @@ body.dm-light .block-with-phone a {
 body.dm-light .block-with-phone a:hover,
 body.dm-light .block-with-phone a:focus,
 body.dm-light .block-with-phone a:active {
-    color: #b00a23;
+    color: #46aee1;
 }
 
 body.dm-light .other-links-list a {
@@ -153,7 +153,7 @@ body.dm-light .other-links-list a {
 body.dm-light .other-links-list a:hover,
 body.dm-light .other-links-list a:focus,
 body.dm-light .other-links-list a:active {
-    color: #b00a23;
+    color: #46aee1;
 }
 
 body.dm-light .social .social-link {
@@ -192,7 +192,7 @@ body.dm-light .page-footer__middle .uk-navbar-nav li a {
 body.dm-light .page-footer__middle .uk-navbar-nav li a:hover,
 body.dm-light .page-footer__middle .uk-navbar-nav li a:focus,
 body.dm-light .page-footer__middle .uk-navbar-nav li a:active {
-    color: #b00a23;
+    color: #46aee1;
     text-decoration: none;
 }
 
@@ -206,7 +206,7 @@ body.dm-light .page-footer__copy a {
 body.dm-light .page-footer__copy a:hover,
 body.dm-light .page-footer__copy a:focus,
 body.dm-light .page-footer__copy a:active {
-    color: #b00a23;
+    color: #46aee1;
     text-decoration: none;
 }
 
@@ -232,7 +232,7 @@ body.dm-light .contact-item-box__value a {
 body.dm-light .contact-item-box__value a:hover,
 body.dm-light .contact-item-box__value a:focus,
 body.dm-light .contact-item-box__value a:active {
-    color: #b00a23;
+    color: #46aee1;
     text-decoration: none;
 }
 
@@ -264,7 +264,7 @@ body.dm-light .product-full-card__whish {
 
 body.dm-light .product-item__whish.is-active,
 body.dm-light .product-full-card__whish.is-active {
-    color: #b00a23;
+    color: #46aee1;
 }
 
 body.dm-light .product-item__tooltip,
@@ -339,7 +339,7 @@ body.dm-light .product-full-card__price {
 
 body.dm-light .product-item__price .value,
 body.dm-light .product-full-card__price .value {
-    color: #b00a23;
+    color: #46aee1;
 }
 
 body.dm-light .product-item__addcart .uk-button-default,
@@ -350,8 +350,8 @@ body.dm-light .product-full-card__addcart .uk-button-default {
 
 body.dm-light .product-item__addcart .uk-button-default:hover,
 body.dm-light .product-full-card__addcart .uk-button-default:hover {
-    border-color: #b00a23;
-    background-color: #b00a23;
+    border-color: #46aee1;
+    background-color: #46aee1;
     color: #ffffff;
 }
 
@@ -401,7 +401,7 @@ body.dm-light .article-card__title a {
 body.dm-light .article-card__title a:hover,
 body.dm-light .article-card__title a:focus,
 body.dm-light .article-card__title a:active {
-    color: #b00a23;
+    color: #46aee1;
 }
 
 body.dm-light .video-item__title {
@@ -423,7 +423,7 @@ body.dm-light .product-card__title a {
 body.dm-light .product-card__title a:hover,
 body.dm-light .product-card__title a:focus,
 body.dm-light .product-card__title a:active {
-    color: #b00a23;
+    color: #46aee1;
 }
 
 body.dm-light .product-card__price {
@@ -458,7 +458,7 @@ body.dm-light .product-full-card__gallery-box {
 }
 
 body.dm-light .product-full-card__whish.is-active {
-    color: #b00a23;
+    color: #46aee1;
 }
 
 body.dm-light .product-full-card__btns .counter {
@@ -508,7 +508,7 @@ body.dm-light .product-full-card__category a {
 body.dm-light .product-full-card__category a:hover,
 body.dm-light .product-full-card__category a:focus,
 body.dm-light .product-full-card__category a:active {
-    color: #b00a23;
+    color: #46aee1;
     text-decoration: none;
 }
 
@@ -767,13 +767,13 @@ body.dm-light .btn-more {
 body.dm-light .btn-more:hover,
 body.dm-light .btn-more:focus,
 body.dm-light .btn-more:active {
-    border-color: #b00a23;
-    background-color: #b00a23;
+    border-color: #46aee1;
+    background-color: #46aee1;
     color: #ffffff;
 }
 
 body.dm-light .pizza-builder-order {
-    border: 1px solid #b00a23;
+    border: 1px solid #46aee1;
 }
 
 body.dm-light .pizza-builder-order__title {
