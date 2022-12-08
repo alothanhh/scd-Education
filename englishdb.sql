@@ -466,28 +466,28 @@ CREATE TABLE `chinhanh` (
 --
 
 INSERT INTO `chinhanh` (`MaCN`, `Ten`, `Sonha`, `Duong`, `Quanhuyen`, `Tinhtp`) VALUES
-('BD001', 'T2E CMT8', '78', 'Cách Mạng Tháng 8', 'Thành phố Thủ Dầu 1', 'Bình Dương'),
-('BD002', 'T2E Dĩ An', '22', 'đường M', 'thành phố Dĩ An', 'Bình Dương'),
-('DN001', 'T2E Nguyễn Văn Linh', '99A', 'Nguyễn Văn Linh', 'Quận Hải Châu', 'Đà Nẵng'),
-('HCM001', 'T2E Nguyễn Thị Minh Khai', '189', 'Nguyễn Thị Minh Khai', 'Quận 1', 'HCM'),
-('HCM002', 'T2E Võ Thị Sáu', '78', 'Võ Thị Sáu', 'Quận 1', 'HCM'),
-('HCM003', 'T2E Trần Não', '58B', 'Trần Não', 'Quận 2', 'HCM'),
-('HCM004', 'T2E Khánh Hội', '245', 'Khánh Hội', 'Quận 4', 'HCM'),
-('HCM005', 'T2E An Dương Vương', '135', 'An Dương Vương', 'Quận 5', 'HCM'),
-('HCM006', 'T2E Bà Hom', '63', 'Bà Hom', 'Quận 6', 'HCM'),
-('HCM007', 'T2E Nguyễn Khắc Viện', '25', 'Nguyễn Khắc Viện', 'Quận 7', 'HCM'),
-('HCM008', 'T2E Xa Lộ Hà Nội', '76A', 'Xa Lộ Hà Nội', 'Quận 9', 'HCM'),
-('HCM009', 'T2E Nguyễn Chí Thanh', '282', 'Nguyễn Chí Thanh', 'Quận 10', 'HCM'),
-('HCM010', 'T2E Trường Chinh', '187', 'Trường Chinh', 'Quận 12', 'HCM'),
-('HCM011', 'T2E Tô Ký', '55', 'Tô Ký', 'Quận 12', 'HCM'),
-('HCM012', 'T2E Cộng Hòa', '105', 'Cộng Hòa', 'Quận Tân Bình', 'HCM'),
-('HCM013', 'T2E Quang Trung ', '651', 'Quang Trung', 'Quận Gò Vấp', 'HCM'),
-('HCM014', 'T2E Tô Ngọc Vân', '485', 'Tô Ngọc Vân', 'Quận Thủ Đức', 'HCM'),
-('HCM015', 'T2E Tô Ký 2', '30/13', 'Tô Ký', 'Huyện Hóc Môn', 'HCM'),
-('HN001', 'T2E Lê Văn Lương', '145', 'Lê Văn Lương', 'Quận Thanh Xuân', 'Hà Nội'),
-('HN002', 'T2E Cầu Giấy', '299', 'Cầu Giấy', 'Quận Cầu Giấy', 'Hà Nội'),
-('HN003', 'T2E Nguyễn Lương Bằng', '187', 'Nguyễn Lương Bằng', 'Quận Đống Đa', 'Hà Nội'),
-('HN004', 'T2E TimeCity', '458', 'Minh Khai', 'Quận Hai Bà Trưng', 'Hà Nội');
+('BD001', 'SCD Education CMT8', '78', 'Cách Mạng Tháng 8', 'Thành phố Thủ Dầu 1', 'Bình Dương'),
+('BD002', 'SCD Education Dĩ An', '22', 'đường M', 'thành phố Dĩ An', 'Bình Dương'),
+('DN001', 'SCD Education Nguyễn Văn Linh', '99A', 'Nguyễn Văn Linh', 'Quận Hải Châu', 'Đà Nẵng'),
+('HCM001', 'SCD Education Nguyễn Thị Minh Khai', '189', 'Nguyễn Thị Minh Khai', 'Quận 1', 'HCM'),
+('HCM002', 'SCD Education Võ Thị Sáu', '78', 'Võ Thị Sáu', 'Quận 1', 'HCM'),
+('HCM003', 'SCD Education Trần Não', '58B', 'Trần Não', 'Quận 2', 'HCM'),
+('HCM004', 'SCD Education Khánh Hội', '245', 'Khánh Hội', 'Quận 4', 'HCM'),
+('HCM005', 'SCD Education An Dương Vương', '135', 'An Dương Vương', 'Quận 5', 'HCM'),
+('HCM006', 'SCD Education Bà Hom', '63', 'Bà Hom', 'Quận 6', 'HCM'),
+('HCM007', 'SCD Education Nguyễn Khắc Viện', '25', 'Nguyễn Khắc Viện', 'Quận 7', 'HCM'),
+('HCM008', 'SCD Education Xa Lộ Hà Nội', '76A', 'Xa Lộ Hà Nội', 'Quận 9', 'HCM'),
+('HCM009', 'SCD Education Nguyễn Chí Thanh', '282', 'Nguyễn Chí Thanh', 'Quận 10', 'HCM'),
+('HCM010', 'SCD Education Trường Chinh', '187', 'Trường Chinh', 'Quận 12', 'HCM'),
+('HCM011', 'SCD Education Tô Ký', '55', 'Tô Ký', 'Quận 12', 'HCM'),
+('HCM012', 'SCD Education Cộng Hòa', '105', 'Cộng Hòa', 'Quận Tân Bình', 'HCM'),
+('HCM013', 'SCD Education Quang Trung ', '651', 'Quang Trung', 'Quận Gò Vấp', 'HCM'),
+('HCM014', 'SCD Education Tô Ngọc Vân', '485', 'Tô Ngọc Vân', 'Quận Thủ Đức', 'HCM'),
+('HCM015', 'SCD Education Tô Ký 2', '30/13', 'Tô Ký', 'Huyện Hóc Môn', 'HCM'),
+('HN001', 'SCD Education Lê Văn Lương', '145', 'Lê Văn Lương', 'Quận Thanh Xuân', 'Hà Nội'),
+('HN002', 'SCD Education Cầu Giấy', '299', 'Cầu Giấy', 'Quận Cầu Giấy', 'Hà Nội'),
+('HN003', 'SCD Education Nguyễn Lương Bằng', '187', 'Nguyễn Lương Bằng', 'Quận Đống Đa', 'Hà Nội'),
+('HN004', 'SCD Education TimeCity', '458', 'Minh Khai', 'Quận Hai Bà Trưng', 'Hà Nội');
 
 -- --------------------------------------------------------
 
@@ -1277,11 +1277,11 @@ INSERT INTO `tacgia_gt` (`Tacgia`, `giaotrinhMaGt`) VALUES
 ('Cambridge', 'TNH002_GT01'),
 ('Cambridge', 'TNH002_GT02'),
 ('Malcolm Mann', 'OT002_GT03'),
-('Nhóm giáo viên T2E', 'KN001_GT01'),
-('Nhóm giáo viên T2E', 'KN002_GT01'),
-('Nhóm giáo viên T2E', 'KN003_GT01'),
-('Nhóm giáo viên T2E', 'KN004_GT01'),
-('Nhóm giáo viên T2E', 'TN001_GT02'),
+('Nhóm giáo viên SCD Education', 'KN001_GT01'),
+('Nhóm giáo viên SCD Education', 'KN002_GT01'),
+('Nhóm giáo viên SCD Education', 'KN003_GT01'),
+('Nhóm giáo viên SCD Education', 'KN004_GT01'),
+('Nhóm giáo viên SCD Education', 'TN001_GT02'),
 ('Raymond Murphy', 'OT001_GT01');
 
 -- --------------------------------------------------------
